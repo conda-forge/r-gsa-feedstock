@@ -1,11 +1,11 @@
-About r-gsa
-===========
+About r-gsa-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gsa-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www-stat.stanford.edu/~tibs/GSA
 
 Package license: LGPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gsa-feedstock/blob/main/LICENSE.txt)
 
 Summary: Gene set analysis
 
